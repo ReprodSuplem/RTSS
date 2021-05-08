@@ -1,0 +1,10 @@
+nOfTaxi 20
+newDemandSize 1
+capacityOfEachTaxi 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+noListOfCarried 0 0 1 0 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0
+noListOfAcceptedPoint 0 0 1 0 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0
+noListOfPickDrop -1 -1 -1 -1 -1 -1 -1
+currenTime 1510186902
+deadlineList 1510191070 1510190126 1510189906 1510190114 1510190390 1510190046 1510190430
+deadlineOfNewDemand 1510186902 1510191222
+viaPointLists 1 1 1 1 1 1 1
